@@ -5,8 +5,8 @@
 ![](Sorting_Visualizer.gif)
 
 ## Algorithms used: 
-#### * Bubble Sort
-#### * Insertion Sort
-#### * Selection Sort
-#### * Merge Sort
-#### * Quick Sort
+#### - Bubble Sort
+#### - Insertion Sort
+#### - Selection Sort
+#### - Merge Sort
+#### - Quick Sort
