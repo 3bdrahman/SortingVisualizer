@@ -13,4 +13,4 @@
 
 ## Options: 
 #### - Size, Speed, Sorting Algorithm
-
+![] (Options.gif)
