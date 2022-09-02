@@ -14,3 +14,5 @@
 ## Options: 
 #### - Size, Speed, Sorting Algorithm
 ![](Options.gif)
+#### check the live demo : https://3bdrahman.github.io/SortingVisualizer/
+
