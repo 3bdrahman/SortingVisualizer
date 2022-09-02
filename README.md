@@ -1,5 +1,5 @@
 # SortingVisualizer
-
+#### check the live demo : https://3bdrahman.github.io/SortingVisualizer/
 ## I used HTML, CSS, and JavaScript for this project. 
 
 ![](Sorting_Visualizer.gif)
@@ -14,5 +14,5 @@
 ## Options: 
 #### - Size, Speed, Sorting Algorithm
 ![](Options.gif)
-#### check the live demo : https://3bdrahman.github.io/SortingVisualizer/
+
 
