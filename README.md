@@ -2,4 +2,4 @@
 
 ## I used HTML, CSS, and JavaScript for this project. 
 
-![](Sorting_visualizer.gif)
+![](Sorting_Visualizer.gif)
