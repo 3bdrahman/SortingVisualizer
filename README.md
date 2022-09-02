@@ -10,3 +10,7 @@
 #### - Selection Sort
 #### - Merge Sort
 #### - Quick Sort
+
+## Options: 
+#### - Size, Speed, Sorting Algorithm
+
